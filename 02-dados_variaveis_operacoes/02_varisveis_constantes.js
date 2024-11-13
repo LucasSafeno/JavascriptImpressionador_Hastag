@@ -1,7 +1,7 @@
 /**
  * ! const
  * *    -> Constante que não pode ser alterado
- * !let
+ * ! let
  * *    -> Variavel ( pode ser alterado)
  */
 const mensagemTela = "Olá meu nome é Lucas!";
